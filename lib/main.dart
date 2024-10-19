@@ -13,7 +13,7 @@ class CalculatorApp extends StatelessWidget {
         appBar: AppBar(
             backgroundColor: Colors.blue,
             title: const Text(
-              'MY CALCULATOR',
+              'MY calculator',
               style: TextStyle(color: Colors.white),
             )),
         body: const Calculator(),
