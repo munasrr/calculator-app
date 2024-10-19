@@ -78,7 +78,7 @@ class _CalculatorState extends State<Calculator> {
           child: Text(
             output,
             style: const TextStyle(
-              fontSize: 46,
+              fontSize: 45,
               color: Colors.white,
             ),
           ),
@@ -90,7 +90,7 @@ class _CalculatorState extends State<Calculator> {
           padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 10),
           child: const Text(
             "General",
-            style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
+            style: TextStyle(fontSize: 23, fontWeight: FontWeight.bold),
           ),
         ),
         // Buttons for the calculator
