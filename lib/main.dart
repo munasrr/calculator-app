@@ -87,7 +87,7 @@ class _CalculatorState extends State<Calculator> {
         // "General
         Container(
           alignment: Alignment.centerLeft,
-          padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
+          padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 10),
           child: const Text(
             "General",
             style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
