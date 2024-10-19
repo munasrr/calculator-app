@@ -69,7 +69,7 @@ class _CalculatorState extends State<Calculator> {
       children: <Widget>[
         // Display for output
         const SizedBox(
-          height: 19,
+          height: 21,
         ),
         Container(
           color: Colors.green,
